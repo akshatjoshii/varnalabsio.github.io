@@ -701,4 +701,6 @@ var CRUMINA = {};
             CRUMINA.MountainsScrollAnnimation();
         }
     });
+    
+    
 })(jQuery);
