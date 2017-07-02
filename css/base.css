@@ -937,3 +937,4 @@ h6, .h6 {
 .hide{
   display: none !important;
 }
+.logo>img{max-width:50px;}
